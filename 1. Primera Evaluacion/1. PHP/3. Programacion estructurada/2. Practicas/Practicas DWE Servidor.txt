@@ -85,7 +85,7 @@ Hacer un programa que muestre una figura similar a la siguiente.
 
 NOTA: solo está permitido el uso de un * en todo el código
 
-Práctoca 3.14
+Práctica 3.14
 El documento nacional de identidad DNI en España consta de un numero de 8 cifras y de una letra. La letra del DNI se obtiene a partir de los números como describen los pasos siguientes:
 
 1. Calcular el resto de dividir el numero de DNI entre 23
