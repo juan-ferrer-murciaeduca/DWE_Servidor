@@ -12,17 +12,17 @@ Hacer un programa que compruebe si dada una variable que contenga un numero,es P
 
 Pista: Un numero para es aquel en el que el resto de la división de ese numero entre 2 es 0
 
-Práctica 3.6
+Práctica 3.4
 Hacer un programa que permita saber si un año es bisiesto.
 
 Para que un año sea bisiesto debe ser divisible por 4 y no debe ser divisible por 100, excepto que también sea divisible por 400.
 
-Práctica 3.7
+Práctica 3.5
 Dada una variable que contenga un numero, imprimir un mensaje si es lunes, otro mensaje diferente si es viernes, otro mensaje diferente si es sábado o domingo. 
 
 Si el día introducido no es ninguno de esos, mostrar un mensaje de error
 
-Práctica 3.8
+Práctica 3.6
 Tenemos una variable numero con un valor entre 0 y 10. 
 
 Mostrar por pantalla el numero escrito con letras
@@ -33,25 +33,25 @@ numero=7 --> escribe "siete"
 
 BUCLES
 
-Práctica 3.9
+Práctica 3.7
 Hacer un programa que muestre los números del 1 al 250.000 separados por ","
 
-Práctica 3.10
+Práctica 3.8
 Hacer un programa que muestre los números del 250 al 0 de 5 en 5.
 
 Es decir: 250,245,240, ... ,10,5,0
 
-Práctica 3.11
+Práctica 3.9
 Hacer un programa dada una variable que contiene un numero y muestre por pantalla todos sus divisores
 
 Ejemplo: 10 --> mostrará 1, 2, 5
 
-Práctica 3.12
+Práctica 3.10
 Un numero primo es aquel que solo es divisible entre 1 y si mismo. Hacer un programa que tengamos una variable con un numero asignado y muestre si es primo o no.
 
 Ejemplo 7 --> es primo
 
-Práctica 3.13
+Práctica 3.11
 Hacer un programa que muestre por pantalla los 20 primeros términos de la sucesión de Fibonacci
 
 NOTA: La sucesión de Fibonacci se caracteriza por:
@@ -62,7 +62,7 @@ Resto: se obtienen sumando los dos términos anteriores.
 0,1,1,2,3,5,8,...
 
 
-Práctica 3.14
+Práctica 3.12
 Un numero triangular es aquel que se obtiene mediante la suma de una sucesión de números empezando desde el 1.
 
 Por ejemplo 6 es triangular ya que 6=1+2+3
@@ -73,7 +73,7 @@ Dado un numero almacenado en una variable, indicar por pantalla si es triangular
 Ej: Si en la variable esta almacenado el numero 20 -> mostrará NO ES TRIANGULAR, menor: 15, mayor: 21
 
 
-Práctica 3.15
+Práctica 3.13
 Hacer un programa que muestre una figura similar a la siguiente. 
 
 *
@@ -85,7 +85,7 @@ Hacer un programa que muestre una figura similar a la siguiente.
 
 NOTA: solo está permitido el uso de un * en todo el código
 
-Práctoca 3.16
+Práctoca 3.14
 El documento nacional de identidad DNI en España consta de un numero de 8 cifras y de una letra. La letra del DNI se obtiene a partir de los números como describen los pasos siguientes:
 
 1. Calcular el resto de dividir el numero de DNI entre 23
