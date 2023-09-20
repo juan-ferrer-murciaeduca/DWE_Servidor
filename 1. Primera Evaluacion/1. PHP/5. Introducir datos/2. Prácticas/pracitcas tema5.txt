@@ -1,0 +1,10 @@
+Práctica 5.1: 
+Hacer una página PHP que muestre por pantalla todos los divisores (aquellos cuyo resto de la división es 0) de una variable recogida en un formulario HTML.
+
+Ej. 16 -> sus divisores son: 1,2,4,6
+
+
+Práctica 5.2
+Hacer un programa en PHP que muestre por pantalla los números entre dos variables principio y fin recogidas mediante un formulario. 
+
+Ejemplo: principio=40 fin=60  40,41,42,...,58,59,60
